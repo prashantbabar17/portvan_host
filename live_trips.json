@@ -1,0 +1,12 @@
+{
+    "liveTrips": [
+        {
+            "id": 1,
+            "routeId": 2,
+            "routeName": "Wagholi",
+            "start": "7:00 AM",
+            "totalPickups": 40,
+            "pickUp": 10
+        }
+    ]
+}
